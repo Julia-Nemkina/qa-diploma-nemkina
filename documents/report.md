@@ -12,8 +12,8 @@
 ### Результаты тестирования:
 Из 62 тестов 32 завершились успешно (51,61% успешных тестов).
 
-![Allure Report](J:\Projects_for_Netology\qa-diploma-nemkina\pic\AllureReport.jpg)
-![Test Summary](J:\Projects_for_Netology\qa-diploma-nemkina\pic\TestSummary.jpg)
+![Allure Report](https://github.com/Julia-Nemkina/qa-diploma-nemkina/blob/main/pic/AllureReport.jpg)
+![Test Summary](https://github.com/Julia-Nemkina/qa-diploma-nemkina/blob/main/pic/TestSummary.jpg)
     
 ### Общие рекомендации:
 Веб-сервис в текущей конфигурации не рекомендуется к релизу в связи с большим количеством критических багов.
