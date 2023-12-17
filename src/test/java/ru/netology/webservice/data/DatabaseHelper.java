@@ -43,7 +43,6 @@ public class DatabaseHelper {
             try (var rs = dataStmt.executeQuery()) {
                 if (rs.next()) {
                     cnt = rs.getInt("cnt");
-
                 }
             }
             return cnt;
@@ -81,7 +80,6 @@ public class DatabaseHelper {
             try (var rs = dataStmt.executeQuery()) {
                 if (rs.next()) {
                     status = rs.getString("status");
-
                 }
             }
             return status;
