@@ -1,6 +1,6 @@
 # ОПИСАНИЕ ВЕБ-СЕРВИСА
 
-[img](https://github.com/Julia-Nemkina/qa-diploma-nemkina/blob/main/pic/img.png)
+![img](https://github.com/Julia-Nemkina/qa-diploma-nemkina/blob/main/pic/img.png)
 
 Веб-сервис предлагает купить тур по определённой цене двумя способами:
 
